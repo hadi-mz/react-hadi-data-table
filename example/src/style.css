@@ -1,0 +1,132 @@
+.green {
+    width: 65%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif;
+    margin: 24px auto;
+}
+
+.green thead {
+    background-color: #AF47D2;
+    color: white;
+    border-radius: 8px 0 0 0;
+}
+
+.green th,
+.green td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.green tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.green tbody tr:hover {
+    background-color: #ddd;
+}
+
+.green tbody tr:hover td {
+    background-color: lightgray;
+    color: #333;
+}
+
+
+.blue {
+    width: 75%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif;
+    margin: 24px auto;
+}
+
+.blue thead {
+    background-color: #3ABEF9;
+    color: white;
+    border-radius: 8px 0 0 0;
+}
+
+.blue th,
+.blue td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.blue tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.blue tbody tr:hover {
+    background-color: #ddd;
+}
+
+.blue tbody tr:hover td {
+    background-color: #cceeff;
+    color: #333;
+}
+
+.orange {
+    width: 90%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif;
+    margin: 24px auto;
+}
+
+.orange thead {
+    background-color: #FF8F00;
+    color: white;
+    border-radius: 8px 0 0 0;
+}
+
+.orange th,
+.orange td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.orange tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.orange tbody tr:hover {
+    background-color: #ddd;
+}
+
+.orange tbody tr:hover td {
+    background-color: #FFD36E;
+    color: #333;
+}
+
+.purple {
+    width: 85%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif;
+    margin: 24px auto;
+}
+
+.purple thead {
+    background-color: #AF47D2;
+    color: white;
+    border-radius: 8px 0 0 0;
+}
+
+.purple th,
+.purple td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.purple tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.purple tbody tr:hover {
+    background-color: #ddd;
+}
+
+.purple tbody tr:hover td {
+    background-color: #FBC7F7;
+    color: #333;
+}
